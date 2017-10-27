@@ -5,6 +5,6 @@ An example use of the linear algebra library.
 * Make the linear algebra library found at https://github.com/gelever/linalgcpp.
 * Copy ```Makefile.in``` to ```Makefile```.
 * Modify ```Makefile``` so that the linalgcpp directory path points to where it is located on your machine.
-* Call ```make``` and try the example program in build/graph
+* Call ```make``` and try the example program in build/graphs
 # Output
 The program saves a file ```Barabasi.adj``` that contains a random graph
